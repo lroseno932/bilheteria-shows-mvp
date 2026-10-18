@@ -1,0 +1,187 @@
+[
+  {
+    "test": "initial-six-events",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "category-two-samba",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "empty-search",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "city-two-results",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "month-three-results",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "favorites-only-one",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "event-dialog-opens",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "total-includes-fee",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "maximum-six",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "zero-tickets-blocked",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "half-total-includes-fee",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "customer-fields-readonly",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "payment-initial-pending",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "payment-declined-message",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "retry-pending",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "payment-expired-message",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "ticket-explicitly-invalid",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "first-demo-scan",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "repeat-demo-scan",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "desktop-no-page-overflow",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "editorial-mobile-no-overflow",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "editorial-mobile-six-events",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "mobile-dialog-opens",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "mobile-dialog-no-horizontal-overflow",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "mobile-quantity-targets",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-six-events",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-no-editorial-highlight",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-sidebar-layout",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-desktop-no-overflow",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-filter-rock",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-event-correct-total",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-mobile-six-events",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-mobile-no-overflow",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-mobile-favorite-targets",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-mobile-purchase-opens",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "agenda-mobile-dialog-no-overflow",
+    "passed": true,
+    "actual": true
+  },
+  {
+    "test": "escape-closes-dialog",
+    "passed": true,
+    "actual": true
+  }
+]

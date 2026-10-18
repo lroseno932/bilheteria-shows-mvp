@@ -1,0 +1,11 @@
+# Arquivos privados e temporários
+.env
+.env.*
+!.env.example
+*token*
+*credentials*
+.vercel/
+node_modules/
+__pycache__/
+*.pyc
+artifacts/
